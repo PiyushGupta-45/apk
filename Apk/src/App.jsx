@@ -5,7 +5,7 @@ function App() {
       <p>Click below to download the latest Android APK.</p>
 
       <a
-        href="https://github.com/PiyushGupta-45/New_Health_hub/releases/download/1.0.2/app-release.apk"
+        href="https://github.com/PiyushGupta-45/New_Health_hub/releases/download/1.0.3/app-debug.apk"
         download
         style={{
           padding: "12px 25px",
@@ -19,6 +19,23 @@ function App() {
         Download APK
       </a>
 
+        <h1>Download Our Budget Tracker Mobile App</h1>
+        <p>Click below to download the latest Android APK.</p>
+  
+        <a
+          href="https://github.com/PiyushGupta-45/Budget_Tracker_App/releases/download/1.0.0/app-release.apk"
+          download
+          style={{
+            padding: "12px 25px",
+            background: "#4C5BF1",
+            color: "#fff",
+            borderRadius: "8px",
+            textDecoration: "none",
+            fontSize: "20px",
+          }}
+        >
+          Download APK
+        </a>
 
       <h1>Download Our Share Bite Mobile App</h1>
       <p>Click below to download the latest Android APK.</p>
